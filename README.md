@@ -1,18 +1,43 @@
-# 📚 CEDUP PROJETOS & EXERCICIOS
+# 📚 CEDUP — Projetos & Exercícios
 
-Esse repositória foi criado com o intuito de compartilhar atividades e criação de trabalhos
-para durante o curso profissionalizante.
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+
+---
+
+Este repositório foi criado com o objetivo de organizar e compartilhar atividades, exercícios e projetos desenvolvidos ao longo do curso técnico.
 
 ## 🛠️ Tecnologias
-Estou aprendendo sobre Aplicações Web, linguagens de programação como Java, Python
-Lua, PHP, SQL, C.
 
-## 📁 Estrutura
-As pastas estão organizadas como pessoal e escolar, organizando o que é ou não para o curso. 
+Atualmente, estou em processo de aprendizado nas seguintes áreas e tecnologias:
+
+- Desenvolvimento de Aplicações Web  
+- Linguagens de programação:  
+  - Java  
+  - Python  
+  - Lua  
+  - PHP  
+  - C  
+- Banco de dados (SQL)
+
+## 📁 Estrutura do Repositório
+
+Os conteúdos estão organizados em duas categorias principais:
+
+- **Pessoal**: projetos e estudos independentes  
+- **Escolar**: atividades e trabalhos relacionados ao curso técnico  
+
+Essa divisão facilita a navegação e a identificação do propósito de cada material.
 
 ## 🚀 Projetos
-(Editar depois)
+
+> Em breve: lista e descrição dos principais projetos desenvolvidos.
 
 ## 📖 Sobre
-Opa, me chamo Rafael ou Rafa, e estou atualmente no segundo ano do ensino médio
-estudando no Centro de Educação Profissionalizante 'Ablío Paulo', cursando Técnico em Informatíca.
+
+Meu nome é Rafael (ou Rafa). Atualmente, estou cursando o segundo ano do ensino médio integrado ao curso técnico em Informática no Centro de Educação Profissionalizante "Abílio Paulo".
