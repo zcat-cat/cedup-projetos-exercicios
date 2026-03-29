@@ -1,2 +1,3 @@
 # cedup-projetos-exercicios
-Esse repositório usarei para compartilhar os exercicios do curso que faço para meus professores
+Esse repositório sera usado para compartilhar os exercicios do curso que faço para meus professores.
+Tambem sera usado para guardar projetos daurante meu periodo escolar :)
