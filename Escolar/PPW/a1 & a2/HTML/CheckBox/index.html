@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+   <h1>Atividade do Castellan:</h1>
+   <hr>
+
+    <table border="0">
+         <tr>
+            <td>Nome:</td>
+            <td><input type="text" name="nome"></td>
+        </tr>
+
+         <tr>
+            <td>Endereço:</td>
+            <td><input type="text" name="nome"></td>
+        </tr>
+
+        <tr>
+            <td>Cidade:</td>
+            <td>
+                <select id="estado" name="estado">
+                    <option value="CR">Criciúma</option>
+                    <option value="FR">Forquilinha</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Sexo:</td>
+            <td>
+                <input type="radio" id="masc" name="mascNmae" value="M">Masculino
+                <input type="radio" id="fem" name="femNmae" value="F">Feminino
+            </td>
+        </tr>
+        
+        <tr>
+            <td>Linguagems Dominadas:</td>
+            <td><input type="checkbox" id="chkH" name="HTML"/>HTML 
+                <input type="checkbox" id="chkC" name="CSS">CSS 
+                <input type="checkbox" id="chkJ" name="JS">JS 
+                <input type="checkbox" id="chkSN" name="ASPN">ASP.NET
+                <input type="checkbox" id="chkSNM" name="ASPNM">ASP.NET MVC
+                <input type="checkbox" id="chkP" name="PHP">PHP
+            </td>
+         </tr>
+
+         <tr>
+            <td></td>
+            <td>
+                <input type="submit" name="btnSal" id="btnSalvar">
+                <input type="reset" name="btnLimpa" id="bntLimpar">
+            </td>
+         </tr>
+    </table>
+</body>
+</html>
